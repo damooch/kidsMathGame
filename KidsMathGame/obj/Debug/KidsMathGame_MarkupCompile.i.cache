@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\1-Mooch_Stuff\11-GitHub\kidsMathGame\Assignment5\Assignment5\obj\Debug\
+D:\1-Mooch_Stuff\11-GitHub\kidsMathGame\KidsMathGame\obj\Debug\
 KidsMathGame
 none
 false
 DEBUG;TRACE
-D:\1-Mooch_Stuff\11-GitHub\kidsMathGame\Assignment5\Assignment5\App.xaml
+D:\1-Mooch_Stuff\11-GitHub\kidsMathGame\KidsMathGame\App.xaml
 5570395457
 4429158495
 181850260537
 13738642453
 FinalScoreWindow.xaml;GameTypeWindow.xaml;GameWindow.xaml;MainWindow.xaml;PlayerInfoWindow.xaml;
 
-False
+True
 
